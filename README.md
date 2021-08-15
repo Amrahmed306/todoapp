@@ -1,6 +1,7 @@
 # todoapp
 
-A new Flutter project.
+A new Flutter project using Bloc State management and Sqlite packages.
+
 
 ## Getting Started
 
